@@ -1,5 +1,7 @@
 # geveze
 
+[![Build Status](https://app.travis-ci.com/ulashn/Geveze.svg?branch=master)](https://app.travis-ci.com/ulashn/Geveze)
+
 - This is a real time chat app with node.js and socket.io
 - Server side written in Express.js and all DOM manupilation done with Vanilla JS.
 
